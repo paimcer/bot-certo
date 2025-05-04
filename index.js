@@ -16,13 +16,13 @@ let isBotActive = true;
 
 // --- Definição das Respostas e Botões (Estilo Luvane) ---
 const respostas = {
-    "btn_vendas": "🛍️ Na *Luvane* você encontra:\n- Cosméticos naturais\n- Sabonetes artesanais\n- Kits de autocuidado\n- Presentes criativos 🌿",
+    "btn_vendas": "🛍️ Na *Luvane* você encontra:\n- livros de colorir\n- papelaria fofa\n- Kits presenteáveis\n- Presentes criativos 🌿",
     "btn_kits": "🎁 Temos kits especiais com muito carinho 💖\nConfira no catálogo ou peça um kit personalizado!",
-    "btn_produtos": "📦 Veja nosso catálogo completo aqui:\n👉 [adicione o link do seu catálogo aqui]", // Substituir pelo link real
-    "btn_comprar_info": "💳 Você pode comprar pelo WhatsApp mesmo!\nAceitamos *PIX*, cartão e boleto. Me diga o que você deseja!",
+    "btn_produtos": "📦 Veja nosso catálogo completo aqui:\n👉 https://wa.me/c/554137950241", 
+    "btn_comprar_info": "💳 Você pode comprar pelo WhatsApp mesmo!\nAceitamos *PIX*, cartão e boleto por link. Me diga o que você deseja!",
     "btn_falar_atendente": "📲 Um atendente vai te responder em instantes 💬\nVocê também pode escrever sua dúvida!",
-    "btn_frete": "🚛 Me envie seu *CEP* e calculo o frete pra você rapidinho!",
-    "btn_comprar_reservar": "📝 Me diga o nome do produto ou kit que deseja comprar ou reservar. Vamos finalizar sua compra juntas! 💌"
+    "btn_frete": "🚛 Me envie seu endereço completo que calculo o frete pra você rapidinho!",
+    "btn_comprar_reservar": "📝 Em nosso catálogo, clique no produto e faça o pedido 👉 https://wa.me/c/554137950241, ou me diga o nome do produto ou kit que deseja comprar ou reservar. logo logo te atenderemos com todo carinho! 💌"
 };
 
 const menuButtons = [
